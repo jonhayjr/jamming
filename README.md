@@ -1,5 +1,5 @@
 # Jamming 
-This is the 'Jamming' React web application from Codeacademy that I created using React Components.
+This is the 'Jamming' React web application from Codeacademy that I created using React 'functional' components'
 
 ## Available Scripts
 
